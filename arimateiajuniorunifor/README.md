@@ -7,3 +7,5 @@
 - **Usuário do Banco de Dados:** `userdb`
 - **Senha do Banco de Dados:** `passworddb`
 - **API de Conexão do Sistema:** `api_key`
+
+- **Últimas alterações: Ajuste no arquivo README.md com as descrições das variáveis de ambiente.**
